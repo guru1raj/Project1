@@ -3,3 +3,4 @@ text is a letter which is used in the computer
 button feature
 Screen recorder
 Dark mode
+settings option
